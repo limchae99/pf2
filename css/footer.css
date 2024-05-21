@@ -1,0 +1,57 @@
+/* 하단 */
+footer {
+ 
+}
+footer div.wrap {
+ 
+  height: 500px;
+  width: 100%;
+}
+footer div.wrap h1 {
+ 
+}
+footer div.wrap ul.fnb {
+ 
+  justify-content: space-between;
+  line-height: 1.4;
+  margin-bottom: 50px;
+}
+footer div.wrap ul.fnb li {
+ 
+}
+footer div.wrap ul.fnb li:nth-child(1){
+  width: calc(100% / 3.5);
+}
+footer div.wrap ul.fnb li h2 {
+ 
+}
+footer div.wrap ul.fnb li ul {
+ 
+}
+footer div.wrap ul.fnb li ul li {
+ 
+}
+footer div.wrap ul.fnb li ul li a {
+ 
+}
+footer div.wrap ul.fnb2 {
+ 
+}
+footer div.wrap ul.fnb2 li {
+ 
+}
+footer div.wrap ul.fnb2 li a {
+ 
+}
+footer div.wrap ul.sns {
+ 
+}
+footer div.wrap ul.sns li {
+ 
+}
+footer div.wrap ul.sns li a {
+ 
+}
+footer div.wrap address {
+ 
+}

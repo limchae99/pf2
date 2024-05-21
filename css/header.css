@@ -1,0 +1,48 @@
+header {
+  padding: 0 60px;
+} 
+header div.wrap {
+  
+  width: auto;
+  background-color: #fff;
+  height: 83px;
+  justify-content: space-between;
+  align-items: center;
+  max-width: initial;
+}
+header div.wrap h1 {
+  
+}
+header div.wrap h1 a {
+  font-size: 23px;
+}
+header div.wrap ul {
+  
+}
+header div.wrap ul li {
+  
+}
+header div.wrap ul li a {
+  padding: 0 20px;
+  line-height: 2.5;
+  margin: -2px;
+  font-size: 16px;
+}
+header div.wrap span {
+  
+}
+header div.wrap span a {
+  
+  padding: 10px 20px;
+  line-height: 1.5;
+  font-size: 12px;
+}
+header div.wrap span button {
+  
+  background-color: black;
+  border-radius: 16px;
+  padding: 20px;
+  color: #eee;
+  height: auto;
+  font-weight: 700;
+}
